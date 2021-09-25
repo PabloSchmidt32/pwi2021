@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+
+
+
+
+.titulo{
+    font-size: 60px;
+    margin: 30px 0 0 0;
+    text-align: center;
+    color:indigo;
+    border-top: thick 30px;
+    border-top-color: red;
+    
+    
+
+
+}
+.destacado{
+    font-size: 30px;
+    text-align: left;
+    border-top: dashed; 
+}
+.noticias{
+    font-size: 40px;
+}
