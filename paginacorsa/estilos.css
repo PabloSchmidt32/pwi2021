@@ -9,4 +9,8 @@ h1{color: cornsilk;
     border: dashed snow
 }
 
+button{text-align: center;
+border-width: 5px;
+border:inset;
+}
 
